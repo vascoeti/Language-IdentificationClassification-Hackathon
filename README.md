@@ -1,5 +1,3 @@
-# Language-IdentificationClassification-Hackathon
-
 # ****ExploreAI Academy Classification Hackathon****
 
 # ****Overview****
